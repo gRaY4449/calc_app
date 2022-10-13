@@ -19,7 +19,7 @@ class calcs extends Controller
             case 'multiplication':
                 $result = $value1 * $value2;
                 break;
-            case 'definition':
+            case 'divition':
                 $result = $value1 / $value2;
                 break;
         }
